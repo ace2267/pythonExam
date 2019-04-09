@@ -30,3 +30,7 @@ print(a*3)
 mylist = "this is a book that is a pencil".split()
 print(mylist.index('book'))
 print(mylist.count('is'))
+
+# List Comprehension
+list = [n ** 2 for n in range(10) if n % 3 == 0]
+print(list)
