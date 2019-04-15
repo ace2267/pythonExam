@@ -9,3 +9,8 @@ elif x < 100:
     print("두자리수")
 else:
     print("세자리이상")
+
+if x < 10:
+    pass
+else:
+    print(x)

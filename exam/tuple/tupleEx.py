@@ -23,3 +23,9 @@ name = ("aaaa","bbb")
 print(name)
 first, last = ("aaaa","bbb")
 print(first,",",last)
+
+# 두개의 리스트 zip()시에 생성
+a= (1,3)
+b= (2,4)
+c= zip(a,b)
+print(list(c))
