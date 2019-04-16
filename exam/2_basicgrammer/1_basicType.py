@@ -18,4 +18,4 @@ a is None     # a가 None 이므로 True
 # 복소수 
 v = 2 + 3j
 v.real  # 2
-v.imag  # 3
+v.imag  # 3  
