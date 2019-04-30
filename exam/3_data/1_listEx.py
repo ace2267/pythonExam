@@ -7,7 +7,7 @@ print(a[1])
 print(a[-1])
 
 # slicing
-print(a[1:2]) # index 1~1
+print(a[1:2]) # index 1~1 
 print(a[1:3]) # index 1~2
 print(a[0:]) # index 0~2
 print(a[:3]) # index 0~2
